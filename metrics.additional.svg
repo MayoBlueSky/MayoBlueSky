@@ -30,7 +30,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">313</span>
+                                <span class="value">312</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                                 <div class="bottom">Apr.</div>
@@ -46,12 +46,12 @@
                                 20
                             </div>
                             <div class="entry">
-                                <span class="value">314</span>
+                                <span class="value">313</span>
                                 <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
-                                <span class="value">317</span>
+                                <span class="value">316</span>
                                 <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 22
                             </div>
@@ -71,17 +71,17 @@
                                 25
                             </div>
                             <div class="entry">
-                                <span class="value">318</span>
+                                <span class="value">317</span>
                                 <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
-                                <span class="value">319</span>
+                                <span class="value">318</span>
                                 <div class="bar" style="height: 43.21428571428571px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
-                                <span class="value">320</span>
+                                <span class="value">319</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 28
                             </div>
